@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about/jekyll-github-pages
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site was built using a customizable [Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) 
+theme and hosted for free with [Github Pages](https://pages.github.com/).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Jekyll Documentation: [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
+Jekyll Source Code: {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)

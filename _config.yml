@@ -16,8 +16,8 @@
 title: Self Taught Programmers
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  This is site created by programmers who taught themselves to code FOR programmers who taught themselves to code.
-  You can share your projects here, and meet other coders who have similar interests to yours. 
+  A website created by self taught programmers FOR self taught programmers, with an emphasis on helping individuals eager to learn code.
+  You can share your projects here, and meet other coders who have similar interest to yours. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "selftaughtprogrammers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
