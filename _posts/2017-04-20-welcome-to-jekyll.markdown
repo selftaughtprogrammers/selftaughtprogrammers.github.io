@@ -21,6 +21,7 @@ See this posts [raw text file][post-structure] as an example.
 Same method as making a new post.
 
 See page [raw text file][page-structure] as an example.
+
 Add page file to the [root directory][page-directory].
 
 
@@ -55,9 +56,9 @@ You’ll find this post in the `_posts` [directory][post-directory].
 
 [post-directory]: https://github.com/selftaughtprogrammers/selftaughtprogrammers.github.io/tree/master/_posts
 
-[page-structure]: https://github.com/selftaughtprogrammers/selftaughtprogrammers.github.io/blob/master/about.md
+[page-directory]: https://github.com/selftaughtprogrammers/selftaughtprogrammers.github.io/blob/master/about.md
 
-[page-directory]: https://raw.githubusercontent.com/selftaughtprogrammers/selftaughtprogrammers.github.io/master/about.md
+[page-structure]: https://raw.githubusercontent.com/selftaughtprogrammers/selftaughtprogrammers.github.io/master/about.md
 
 [coding-screen-shot]: /images/coding-screen-shot.gif
 [markdown]: https://guides.github.com/features/mastering-markdown/
